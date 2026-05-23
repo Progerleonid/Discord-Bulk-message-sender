@@ -1,5 +1,7 @@
 # Discord Bulk Message Sender (Discord Spammer)
 
+<img width="602" height="811" alt="image" src="https://github.com/user-attachments/assets/cec19963-e31c-43f9-a72f-50788533da5c" />
+
 [English](#english) | [Русский](#русский)
 
 ---
